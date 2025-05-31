@@ -1,0 +1,1754 @@
+CRITICAL - 2024-11-21 02:53:11 --> Error: Class "App\Controllers\EstudiantesModel" not found
+[Method: GET, Route: estudiantes/adicionar]
+in APPPATH\Controllers\Estudiantes.php on line 113.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->adicionar()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 04:00:34 --> ErrorException: Undefined array key "tiposangre"
+[Method: GET, Route: estudiantes/editar/5346]
+in APPPATH\Controllers\Estudiantes.php on line 206.
+ 1 APPPATH\Controllers\Estudiantes.php(206): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tiposangre"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 206)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(5346)
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 04:00:35 --> ErrorException: Undefined array key "tiposangre"
+[Method: GET, Route: estudiantes/editar/5346]
+in APPPATH\Controllers\Estudiantes.php on line 206.
+ 1 APPPATH\Controllers\Estudiantes.php(206): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tiposangre"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 206)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(5346)
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 04:02:22 --> ErrorException: Undefined array key "tiposangre"
+[Method: GET, Route: estudiantes/editar/5346]
+in APPPATH\Controllers\Estudiantes.php on line 206.
+ 1 APPPATH\Controllers\Estudiantes.php(206): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tiposangre"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 206)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(5346)
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 04:02:53 --> ErrorException: Undefined array key "tiposangre"
+[Method: GET, Route: estudiantes/editar/5346]
+in APPPATH\Controllers\Estudiantes.php on line 206.
+ 1 APPPATH\Controllers\Estudiantes.php(206): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tiposangre"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 206)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(5346)
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 04:05:22 --> ErrorException: Undefined array key "tiposangre"
+[Method: GET, Route: estudiantes/editar/5346]
+in APPPATH\Controllers\Estudiantes.php on line 206.
+ 1 APPPATH\Controllers\Estudiantes.php(206): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tiposangre"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 206)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(5346)
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 04:21:12 --> ErrorException: Undefined array key "tiposangre"
+[Method: GET, Route: estudiantes/editar/5346]
+in APPPATH\Controllers\Estudiantes.php on line 206.
+ 1 APPPATH\Controllers\Estudiantes.php(206): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tiposangre"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 206)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(5346)
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 04:21:13 --> ErrorException: Undefined array key "tiposangre"
+[Method: GET, Route: estudiantes/editar/5346]
+in APPPATH\Controllers\Estudiantes.php on line 206.
+ 1 APPPATH\Controllers\Estudiantes.php(206): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tiposangre"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 206)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(5346)
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 04:23:42 --> ErrorException: Undefined array key "tiposangre"
+[Method: GET, Route: estudiantes/editar/5346]
+in APPPATH\Controllers\Estudiantes.php on line 206.
+ 1 APPPATH\Controllers\Estudiantes.php(206): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tiposangre"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 206)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(5346)
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 04:23:59 --> ErrorException: Undefined array key "tiposangre"
+[Method: GET, Route: estudiantes/editar/5346]
+in APPPATH\Controllers\Estudiantes.php on line 206.
+ 1 APPPATH\Controllers\Estudiantes.php(206): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tiposangre"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 206)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(5346)
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 04:26:08 --> ErrorException: Undefined array key "tiposangre"
+[Method: GET, Route: estudiantes/editar/5346]
+in APPPATH\Controllers\Estudiantes.php on line 206.
+ 1 APPPATH\Controllers\Estudiantes.php(206): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tiposangre"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 206)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(5346)
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 04:26:46 --> ErrorException: Undefined array key "tiposangre"
+[Method: GET, Route: estudiantes/editar/5346]
+in APPPATH\Controllers\Estudiantes.php on line 206.
+ 1 APPPATH\Controllers\Estudiantes.php(206): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tiposangre"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 206)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(5346)
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 04:45:10 --> ErrorException: Undefined array key "tiposangre"
+[Method: GET, Route: estudiantes/editar/5346]
+in APPPATH\Controllers\Estudiantes.php on line 206.
+ 1 APPPATH\Controllers\Estudiantes.php(206): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tiposangre"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 206)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(5346)
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 04:45:14 --> ErrorException: Undefined array key "tiposangre"
+[Method: GET, Route: estudiantes/editar/5346]
+in APPPATH\Controllers\Estudiantes.php on line 206.
+ 1 APPPATH\Controllers\Estudiantes.php(206): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tiposangre"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 206)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(5346)
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 04:49:47 --> ErrorException: Undefined array key "colorojos"
+[Method: GET, Route: estudiantes/editar/4339]
+in APPPATH\Controllers\Estudiantes.php on line 207.
+ 1 APPPATH\Controllers\Estudiantes.php(207): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "colorojos"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 207)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(4339)
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 04:55:17 --> ErrorException: Undefined array key "tiposangre"
+[Method: GET, Route: estudiantes/editar/4339]
+in APPPATH\Controllers\Estudiantes.php on line 208.
+ 1 APPPATH\Controllers\Estudiantes.php(208): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tiposangre"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 208)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(4339)
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 04:56:41 --> ErrorException: Undefined array key "colorojos"
+[Method: GET, Route: estudiantes/editar/4339]
+in APPPATH\Controllers\Estudiantes.php on line 248.
+ 1 APPPATH\Controllers\Estudiantes.php(248): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "colorojos"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 248)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(4339)
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 04:58:40 --> ErrorException: Undefined array key "colorojos"
+[Method: GET, Route: estudiantes/editar/4339]
+in APPPATH\Controllers\Estudiantes.php on line 255.
+ 1 APPPATH\Controllers\Estudiantes.php(255): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "colorojos"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 255)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(4339)
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 04:59:29 --> ErrorException: Undefined array key "colorojos"
+[Method: GET, Route: estudiantes/editar/4339]
+in APPPATH\Controllers\Estudiantes.php on line 255.
+ 1 APPPATH\Controllers\Estudiantes.php(255): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "colorojos"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 255)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(4339)
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 05:08:44 --> ErrorException: Undefined array key "colorojos"
+[Method: GET, Route: estudiantes/editar/4339]
+in APPPATH\Controllers\Estudiantes.php on line 254.
+ 1 APPPATH\Controllers\Estudiantes.php(254): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "colorojos"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 254)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(4339)
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 05:08:49 --> ErrorException: Undefined array key "colorojos"
+[Method: GET, Route: estudiantes/editar/4339]
+in APPPATH\Controllers\Estudiantes.php on line 254.
+ 1 APPPATH\Controllers\Estudiantes.php(254): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "colorojos"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 254)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(4339)
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 05:11:03 --> ErrorException: Undefined array key "ciudadtrabaja"
+[Method: GET, Route: estudiantes/editar/4339]
+in APPPATH\Controllers\Estudiantes.php on line 259.
+ 1 APPPATH\Controllers\Estudiantes.php(259): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "ciudadtrabaja"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 259)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(4339)
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 05:13:27 --> ErrorException: Undefined variable $tiposangreOptions
+[Method: GET, Route: estudiantes/editar/4339]
+in APPPATH\Views\estudiantes\editar.php on line 43.
+ 1 APPPATH\Views\estudiantes\editar.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $tiposangreOptions', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Views\\estudiantes\\editar.php', 43)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Views\\estudiantes\\editar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('estudiantes/editar', [], true)
+ 5 APPPATH\Controllers\Estudiantes.php(274): view('estudiantes/editar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(4339)
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 05:16:20 --> ErrorException: Undefined array key "fechanace"
+[Method: GET, Route: estudiantes/editar/4339]
+in APPPATH\Views\estudiantes\editar.php on line 58.
+ 1 APPPATH\Views\estudiantes\editar.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fechanace"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Views\\estudiantes\\editar.php', 58)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Views\\estudiantes\\editar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('estudiantes/editar', [], true)
+ 5 APPPATH\Controllers\Estudiantes.php(274): view('estudiantes/editar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(4339)
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 05:17:12 --> ErrorException: Undefined array key "fechanace"
+[Method: GET, Route: estudiantes/editar/4339]
+in APPPATH\Views\estudiantes\editar.php on line 58.
+ 1 APPPATH\Views\estudiantes\editar.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fechanace"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Views\\estudiantes\\editar.php', 58)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Views\\estudiantes\\editar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('estudiantes/editar', [], true)
+ 5 APPPATH\Controllers\Estudiantes.php(274): view('estudiantes/editar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(4339)
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 05:18:45 --> ErrorException: Undefined array key "fechanace"
+[Method: GET, Route: estudiantes/editar/4339]
+in APPPATH\Views\estudiantes\editar.php on line 58.
+ 1 APPPATH\Views\estudiantes\editar.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fechanace"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Views\\estudiantes\\editar.php', 58)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Views\\estudiantes\\editar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('estudiantes/editar', [], true)
+ 5 APPPATH\Controllers\Estudiantes.php(274): view('estudiantes/editar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(4339)
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 05:19:22 --> ErrorException: Undefined array key "url"
+[Method: GET, Route: estudiantes/editar/4339]
+in APPPATH\Views\estudiantes\editar.php on line 79.
+ 1 APPPATH\Views\estudiantes\editar.php(79): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "url"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Views\\estudiantes\\editar.php', 79)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Views\\estudiantes\\editar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('estudiantes/editar', [], true)
+ 5 APPPATH\Controllers\Estudiantes.php(274): view('estudiantes/editar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(4339)
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 05:52:02 --> ErrorException: Undefined property: App\Controllers\Estudiantes::$model
+[Method: GET, Route: estudiantes/cboTipoSangre]
+in APPPATH\Controllers\Estudiantes.php on line 357.
+ 1 APPPATH\Controllers\Estudiantes.php(357): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Estudiantes::$model', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 357)
+ 2 APPPATH\Controllers\Estudiantes.php(352): App\Controllers\Estudiantes->cbo('tiposangre')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->cboTipoSangre()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 05:52:07 --> ErrorException: Undefined property: App\Controllers\Estudiantes::$model
+[Method: GET, Route: estudiantes/cboColores]
+in APPPATH\Controllers\Estudiantes.php on line 357.
+ 1 APPPATH\Controllers\Estudiantes.php(357): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Estudiantes::$model', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 357)
+ 2 APPPATH\Controllers\Estudiantes.php(347): App\Controllers\Estudiantes->cbo('colores')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->cboColores()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 05:56:01 --> ErrorException: Undefined array key "tiposangre"
+[Method: GET, Route: estudiantes/editar/5347]
+in APPPATH\Controllers\Estudiantes.php on line 196.
+ 1 APPPATH\Controllers\Estudiantes.php(196): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tiposangre"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 196)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar('5347')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 05:56:02 --> ErrorException: Undefined array key "tiposangre"
+[Method: GET, Route: estudiantes/editar/5347]
+in APPPATH\Controllers\Estudiantes.php on line 196.
+ 1 APPPATH\Controllers\Estudiantes.php(196): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tiposangre"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 196)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar('5347')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-11-21 05:57:58 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 15 in C:\xampp\htdocs\crud_codeigniter4\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\crud_codeigniter4\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT \r\n      ...', 0)
+#1 C:\xampp\htdocs\crud_codeigniter4\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT \r\n      ...')
+#2 C:\xampp\htdocs\crud_codeigniter4\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT \r\n      ...')
+#3 C:\xampp\htdocs\crud_codeigniter4\app\Controllers\Estudiantes.php(56): CodeIgniter\Database\BaseConnection->query('SELECT \r\n      ...', Array)
+#4 C:\xampp\htdocs\crud_codeigniter4\system\CodeIgniter.php(933): App\Controllers\Estudiantes->detalle('5347')
+#5 C:\xampp\htdocs\crud_codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+#6 C:\xampp\htdocs\crud_codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\crud_codeigniter4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\crud_codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#9 C:\xampp\htdocs\crud_codeigniter4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#10 {main}
+CRITICAL - 2024-11-21 05:57:58 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 15
+[Method: GET, Route: estudiantes/detalle/5347]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Controllers\Estudiantes.php(56): CodeIgniter\Database\BaseConnection->query('SELECT 
+                    e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, 
+                    c6.nombre AS tiposangre, e.altura, e.peso, c1.nombre AS nombre_colorojos,
+                    DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha, c2.nombre AS nombre_colorprefiere, 
+                    c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, e.URL, 
+                    e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->detalle('5347')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 05:57:58 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 15
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 
+                    e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, 
+                    c6.nombre AS tiposangre, e.altura, e.peso, c1.nombre AS nombre_colorojos,
+                    DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha, c2.nombre AS nombre_colorprefiere, 
+                    c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, e.URL, 
+                    e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 
+                    e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, 
+                    c6.nombre AS tiposangre, e.altura, e.peso, c1.nombre AS nombre_colorojos,
+                    DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha, c2.nombre AS nombre_colorprefiere, 
+                    c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, e.URL, 
+                    e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 3 APPPATH\Controllers\Estudiantes.php(56): CodeIgniter\Database\BaseConnection->query('SELECT 
+                    e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, 
+                    c6.nombre AS tiposangre, e.altura, e.peso, c1.nombre AS nombre_colorojos,
+                    DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha, c2.nombre AS nombre_colorprefiere, 
+                    c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, e.URL, 
+                    e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->detalle('5347')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 05:57:58 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 15
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT 
+                    e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, 
+                    c6.nombre AS tiposangre, e.altura, e.peso, c1.nombre AS nombre_colorojos,
+                    DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha, c2.nombre AS nombre_colorprefiere, 
+                    c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, e.URL, 
+                    e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 
+                    e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, 
+                    c6.nombre AS tiposangre, e.altura, e.peso, c1.nombre AS nombre_colorojos,
+                    DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha, c2.nombre AS nombre_colorprefiere, 
+                    c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, e.URL, 
+                    e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 
+                    e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, 
+                    c6.nombre AS tiposangre, e.altura, e.peso, c1.nombre AS nombre_colorojos,
+                    DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha, c2.nombre AS nombre_colorprefiere, 
+                    c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, e.URL, 
+                    e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 4 APPPATH\Controllers\Estudiantes.php(56): CodeIgniter\Database\BaseConnection->query('SELECT 
+                    e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, 
+                    c6.nombre AS tiposangre, e.altura, e.peso, c1.nombre AS nombre_colorojos,
+                    DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha, c2.nombre AS nombre_colorprefiere, 
+                    c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, e.URL, 
+                    e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->detalle('5347')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-11-21 05:57:59 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 15 in C:\xampp\htdocs\crud_codeigniter4\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\crud_codeigniter4\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT \r\n      ...', 0)
+#1 C:\xampp\htdocs\crud_codeigniter4\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT \r\n      ...')
+#2 C:\xampp\htdocs\crud_codeigniter4\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT \r\n      ...')
+#3 C:\xampp\htdocs\crud_codeigniter4\app\Controllers\Estudiantes.php(56): CodeIgniter\Database\BaseConnection->query('SELECT \r\n      ...', Array)
+#4 C:\xampp\htdocs\crud_codeigniter4\system\CodeIgniter.php(933): App\Controllers\Estudiantes->detalle('5346')
+#5 C:\xampp\htdocs\crud_codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+#6 C:\xampp\htdocs\crud_codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\crud_codeigniter4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\crud_codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#9 C:\xampp\htdocs\crud_codeigniter4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#10 {main}
+CRITICAL - 2024-11-21 05:57:59 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 15
+[Method: GET, Route: estudiantes/detalle/5346]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Controllers\Estudiantes.php(56): CodeIgniter\Database\BaseConnection->query('SELECT 
+                    e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, 
+                    c6.nombre AS tiposangre, e.altura, e.peso, c1.nombre AS nombre_colorojos,
+                    DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha, c2.nombre AS nombre_colorprefiere, 
+                    c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, e.URL, 
+                    e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->detalle('5346')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 05:57:59 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 15
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 
+                    e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, 
+                    c6.nombre AS tiposangre, e.altura, e.peso, c1.nombre AS nombre_colorojos,
+                    DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha, c2.nombre AS nombre_colorprefiere, 
+                    c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, e.URL, 
+                    e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 
+                    e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, 
+                    c6.nombre AS tiposangre, e.altura, e.peso, c1.nombre AS nombre_colorojos,
+                    DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha, c2.nombre AS nombre_colorprefiere, 
+                    c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, e.URL, 
+                    e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 3 APPPATH\Controllers\Estudiantes.php(56): CodeIgniter\Database\BaseConnection->query('SELECT 
+                    e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, 
+                    c6.nombre AS tiposangre, e.altura, e.peso, c1.nombre AS nombre_colorojos,
+                    DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha, c2.nombre AS nombre_colorprefiere, 
+                    c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, e.URL, 
+                    e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->detalle('5346')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 05:57:59 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 15
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT 
+                    e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, 
+                    c6.nombre AS tiposangre, e.altura, e.peso, c1.nombre AS nombre_colorojos,
+                    DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha, c2.nombre AS nombre_colorprefiere, 
+                    c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, e.URL, 
+                    e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 
+                    e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, 
+                    c6.nombre AS tiposangre, e.altura, e.peso, c1.nombre AS nombre_colorojos,
+                    DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha, c2.nombre AS nombre_colorprefiere, 
+                    c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, e.URL, 
+                    e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 
+                    e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, 
+                    c6.nombre AS tiposangre, e.altura, e.peso, c1.nombre AS nombre_colorojos,
+                    DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha, c2.nombre AS nombre_colorprefiere, 
+                    c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, e.URL, 
+                    e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 4 APPPATH\Controllers\Estudiantes.php(56): CodeIgniter\Database\BaseConnection->query('SELECT 
+                    e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, 
+                    c6.nombre AS tiposangre, e.altura, e.peso, c1.nombre AS nombre_colorojos,
+                    DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha, c2.nombre AS nombre_colorprefiere, 
+                    c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, e.URL, 
+                    e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->detalle('5346')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 05:58:10 --> ErrorException: Undefined property: App\Controllers\Estudiantes::$BaseDatosModel
+[Method: GET, Route: estudiantes/cboTipoSangre]
+in APPPATH\Controllers\Estudiantes.php on line 240.
+ 1 APPPATH\Controllers\Estudiantes.php(240): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Estudiantes::$BaseDatosModel', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 240)
+ 2 APPPATH\Controllers\Estudiantes.php(235): App\Controllers\Estudiantes->cbo('tiposangre')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->cboTipoSangre()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-11-21 05:58:14 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10', 10' at line 12 in C:\xampp\htdocs\crud_codeigniter4\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\crud_codeigniter4\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT estudian...', 0)
+#1 C:\xampp\htdocs\crud_codeigniter4\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT estudian...')
+#2 C:\xampp\htdocs\crud_codeigniter4\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT estudian...')
+#3 C:\xampp\htdocs\crud_codeigniter4\app\Models\BaseDatosModel.php(84): CodeIgniter\Database\BaseConnection->query('SELECT estudian...', Array)
+#4 C:\xampp\htdocs\crud_codeigniter4\app\Controllers\Estudiantes.php(26): App\Models\BaseDatosModel->getEstudiantes(NULL, '10')
+#5 C:\xampp\htdocs\crud_codeigniter4\system\CodeIgniter.php(933): App\Controllers\Estudiantes->index()
+#6 C:\xampp\htdocs\crud_codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+#7 C:\xampp\htdocs\crud_codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\crud_codeigniter4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\crud_codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\crud_codeigniter4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-11-21 05:58:14 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10', 10' at line 12
+[Method: GET, Route: estudiantes]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\BaseDatosModel.php(84): CodeIgniter\Database\BaseConnection->query('SELECT estudiantes.codigo, 
+                           estudiantes.nombre1, 
+                           estudiantes.apellido1, 
+                           estudiantes.altura,
+                           estudiantes.peso, 
+                           colores.nombre AS color_ojos, 
+                           profesiones.nombre AS profesion
+                    FROM estudiantes
+                    JOIN colores ON estudiantes.colorojos = colores.codigo
+                    JOIN profesiones ON estudiantes.profesion = profesiones.codigo 
+                    ORDER BY estudiantes.nombre1 
+                    LIMIT ?, 10', [...])
+ 2 APPPATH\Controllers\Estudiantes.php(26): App\Models\BaseDatosModel->getEstudiantes(null, '10')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->index()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 05:58:14 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10', 10' at line 12
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT estudiantes.codigo, 
+                           estudiantes.nombre1, 
+                           estudiantes.apellido1, 
+                           estudiantes.altura,
+                           estudiantes.peso, 
+                           colores.nombre AS color_ojos, 
+                           profesiones.nombre AS profesion
+                    FROM estudiantes
+                    JOIN colores ON estudiantes.colorojos = colores.codigo
+                    JOIN profesiones ON estudiantes.profesion = profesiones.codigo 
+                    ORDER BY estudiantes.nombre1 
+                    LIMIT \'10\', 10')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT estudiantes.codigo, 
+                           estudiantes.nombre1, 
+                           estudiantes.apellido1, 
+                           estudiantes.altura,
+                           estudiantes.peso, 
+                           colores.nombre AS color_ojos, 
+                           profesiones.nombre AS profesion
+                    FROM estudiantes
+                    JOIN colores ON estudiantes.colorojos = colores.codigo
+                    JOIN profesiones ON estudiantes.profesion = profesiones.codigo 
+                    ORDER BY estudiantes.nombre1 
+                    LIMIT \'10\', 10')
+ 3 APPPATH\Models\BaseDatosModel.php(84): CodeIgniter\Database\BaseConnection->query('SELECT estudiantes.codigo, 
+                           estudiantes.nombre1, 
+                           estudiantes.apellido1, 
+                           estudiantes.altura,
+                           estudiantes.peso, 
+                           colores.nombre AS color_ojos, 
+                           profesiones.nombre AS profesion
+                    FROM estudiantes
+                    JOIN colores ON estudiantes.colorojos = colores.codigo
+                    JOIN profesiones ON estudiantes.profesion = profesiones.codigo 
+                    ORDER BY estudiantes.nombre1 
+                    LIMIT ?, 10', [...])
+ 4 APPPATH\Controllers\Estudiantes.php(26): App\Models\BaseDatosModel->getEstudiantes(null, '10')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 05:58:14 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''10', 10' at line 12
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT estudiantes.codigo, 
+                           estudiantes.nombre1, 
+                           estudiantes.apellido1, 
+                           estudiantes.altura,
+                           estudiantes.peso, 
+                           colores.nombre AS color_ojos, 
+                           profesiones.nombre AS profesion
+                    FROM estudiantes
+                    JOIN colores ON estudiantes.colorojos = colores.codigo
+                    JOIN profesiones ON estudiantes.profesion = profesiones.codigo 
+                    ORDER BY estudiantes.nombre1 
+                    LIMIT \'10\', 10', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT estudiantes.codigo, 
+                           estudiantes.nombre1, 
+                           estudiantes.apellido1, 
+                           estudiantes.altura,
+                           estudiantes.peso, 
+                           colores.nombre AS color_ojos, 
+                           profesiones.nombre AS profesion
+                    FROM estudiantes
+                    JOIN colores ON estudiantes.colorojos = colores.codigo
+                    JOIN profesiones ON estudiantes.profesion = profesiones.codigo 
+                    ORDER BY estudiantes.nombre1 
+                    LIMIT \'10\', 10')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT estudiantes.codigo, 
+                           estudiantes.nombre1, 
+                           estudiantes.apellido1, 
+                           estudiantes.altura,
+                           estudiantes.peso, 
+                           colores.nombre AS color_ojos, 
+                           profesiones.nombre AS profesion
+                    FROM estudiantes
+                    JOIN colores ON estudiantes.colorojos = colores.codigo
+                    JOIN profesiones ON estudiantes.profesion = profesiones.codigo 
+                    ORDER BY estudiantes.nombre1 
+                    LIMIT \'10\', 10')
+ 4 APPPATH\Models\BaseDatosModel.php(84): CodeIgniter\Database\BaseConnection->query('SELECT estudiantes.codigo, 
+                           estudiantes.nombre1, 
+                           estudiantes.apellido1, 
+                           estudiantes.altura,
+                           estudiantes.peso, 
+                           colores.nombre AS color_ojos, 
+                           profesiones.nombre AS profesion
+                    FROM estudiantes
+                    JOIN colores ON estudiantes.colorojos = colores.codigo
+                    JOIN profesiones ON estudiantes.profesion = profesiones.codigo 
+                    ORDER BY estudiantes.nombre1 
+                    LIMIT ?, 10', [...])
+ 5 APPPATH\Controllers\Estudiantes.php(26): App\Models\BaseDatosModel->getEstudiantes(null, '10')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 06:01:13 --> ArgumentCountError: Too few arguments to function App\Controllers\Estudiantes::getOptions(), 1 passed in C:\xampp\htdocs\crud_codeigniter4\app\Controllers\Estudiantes.php on line 115 and exactly 5 expected
+[Method: GET, Route: estudiantes/adicionar]
+in APPPATH\Controllers\Estudiantes.php on line 259.
+ 1 APPPATH\Controllers\Estudiantes.php(115): App\Controllers\Estudiantes->getOptions('tiposangre')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->adicionar()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 06:04:07 --> ErrorException: Undefined property: App\Controllers\Estudiantes::$model
+[Method: GET, Route: estudiantes/editar/5348]
+in APPPATH\Controllers\Estudiantes.php on line 166.
+ 1 APPPATH\Controllers\Estudiantes.php(166): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Estudiantes::$model', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 166)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar('5348')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 06:04:18 --> ErrorException: Undefined array key "tiposangre"
+[Method: GET, Route: estudiantes/editar/5348]
+in APPPATH\Controllers\Estudiantes.php on line 173.
+ 1 APPPATH\Controllers\Estudiantes.php(173): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tiposangre"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 173)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar('5348')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 06:04:23 --> ErrorException: Undefined array key "tiposangre"
+[Method: GET, Route: estudiantes/editar/5348]
+in APPPATH\Controllers\Estudiantes.php on line 173.
+ 1 APPPATH\Controllers\Estudiantes.php(173): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tiposangre"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 173)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar('5348')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 06:05:16 --> ErrorException: Undefined array key "tiposangre"
+[Method: GET, Route: estudiantes/editar/5348]
+in APPPATH\Controllers\Estudiantes.php on line 173.
+ 1 APPPATH\Controllers\Estudiantes.php(173): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tiposangre"', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 173)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar('5348')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 06:06:09 --> ErrorException: Undefined variable $db
+[Method: GET, Route: estudiantes/editar/5348]
+in APPPATH\Controllers\Estudiantes.php on line 180.
+ 1 APPPATH\Controllers\Estudiantes.php(180): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 180)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(5348)
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 06:06:32 --> ErrorException: Undefined variable $db
+[Method: GET, Route: estudiantes/editar/5348]
+in APPPATH\Controllers\Estudiantes.php on line 186.
+ 1 APPPATH\Controllers\Estudiantes.php(186): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 186)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(5348)
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 06:10:40 --> ErrorException: Undefined property: App\Controllers\Estudiantes::$model
+[Method: POST, Route: estudiantes/save]
+in APPPATH\Controllers\Estudiantes.php on line 154.
+ 1 APPPATH\Controllers\Estudiantes.php(154): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Estudiantes::$model', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 154)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->save()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 06:11:20 --> ErrorException: Undefined property: App\Controllers\Estudiantes::$model
+[Method: POST, Route: estudiantes/save]
+in APPPATH\Controllers\Estudiantes.php on line 156.
+ 1 APPPATH\Controllers\Estudiantes.php(156): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Estudiantes::$model', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 156)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->save()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 06:12:27 --> ErrorException: Undefined property: App\Controllers\Estudiantes::$model
+[Method: POST, Route: estudiantes/save]
+in APPPATH\Controllers\Estudiantes.php on line 156.
+ 1 APPPATH\Controllers\Estudiantes.php(156): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Estudiantes::$model', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 156)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->save()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 06:13:25 --> ErrorException: Undefined variable $data
+[Method: POST, Route: estudiantes/save]
+in APPPATH\Controllers\Estudiantes.php on line 156.
+ 1 APPPATH\Controllers\Estudiantes.php(156): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 156)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->save()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 06:13:35 --> ErrorException: Undefined variable $data
+[Method: POST, Route: estudiantes/save]
+in APPPATH\Controllers\Estudiantes.php on line 156.
+ 1 APPPATH\Controllers\Estudiantes.php(156): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 156)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->save()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 06:13:54 --> ErrorException: Undefined variable $data
+[Method: POST, Route: estudiantes/save]
+in APPPATH\Controllers\Estudiantes.php on line 156.
+ 1 APPPATH\Controllers\Estudiantes.php(156): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Controllers\\Estudiantes.php', 156)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->save()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-11-21 06:19:36 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 13 in C:\xampp\htdocs\crud_codeigniter4\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\crud_codeigniter4\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT e.codigo...', 0)
+#1 C:\xampp\htdocs\crud_codeigniter4\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT e.codigo...')
+#2 C:\xampp\htdocs\crud_codeigniter4\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT e.codigo...')
+#3 C:\xampp\htdocs\crud_codeigniter4\app\Controllers\Estudiantes.php(331): CodeIgniter\Database\BaseConnection->query('SELECT e.codigo...', Array)
+#4 C:\xampp\htdocs\crud_codeigniter4\app\Controllers\Estudiantes.php(206): App\Controllers\Estudiantes->getEstudianteDetalles(5348)
+#5 C:\xampp\htdocs\crud_codeigniter4\system\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(5348)
+#6 C:\xampp\htdocs\crud_codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+#7 C:\xampp\htdocs\crud_codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\crud_codeigniter4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\crud_codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\crud_codeigniter4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-11-21 06:19:36 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 13
+[Method: GET, Route: estudiantes/editar/5348]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Controllers\Estudiantes.php(331): CodeIgniter\Database\BaseConnection->query('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', [...])
+ 2 APPPATH\Controllers\Estudiantes.php(206): App\Controllers\Estudiantes->getEstudianteDetalles(5348)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(5348)
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 06:19:36 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 13
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 3 APPPATH\Controllers\Estudiantes.php(331): CodeIgniter\Database\BaseConnection->query('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', [...])
+ 4 APPPATH\Controllers\Estudiantes.php(206): App\Controllers\Estudiantes->getEstudianteDetalles(5348)
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(5348)
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 06:19:36 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 13
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 4 APPPATH\Controllers\Estudiantes.php(331): CodeIgniter\Database\BaseConnection->query('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', [...])
+ 5 APPPATH\Controllers\Estudiantes.php(206): App\Controllers\Estudiantes->getEstudianteDetalles(5348)
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(5348)
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-11-21 06:20:15 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 13 in C:\xampp\htdocs\crud_codeigniter4\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\crud_codeigniter4\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT e.codigo...', 0)
+#1 C:\xampp\htdocs\crud_codeigniter4\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT e.codigo...')
+#2 C:\xampp\htdocs\crud_codeigniter4\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT e.codigo...')
+#3 C:\xampp\htdocs\crud_codeigniter4\app\Controllers\Estudiantes.php(330): CodeIgniter\Database\BaseConnection->query('SELECT e.codigo...', Array)
+#4 C:\xampp\htdocs\crud_codeigniter4\app\Controllers\Estudiantes.php(206): App\Controllers\Estudiantes->getEstudianteDetalles(5348)
+#5 C:\xampp\htdocs\crud_codeigniter4\system\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(5348)
+#6 C:\xampp\htdocs\crud_codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+#7 C:\xampp\htdocs\crud_codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\crud_codeigniter4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\crud_codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\crud_codeigniter4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-11-21 06:20:15 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 13
+[Method: GET, Route: estudiantes/editar/5348]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Controllers\Estudiantes.php(330): CodeIgniter\Database\BaseConnection->query('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', [...])
+ 2 APPPATH\Controllers\Estudiantes.php(206): App\Controllers\Estudiantes->getEstudianteDetalles(5348)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(5348)
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 06:20:15 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 13
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 3 APPPATH\Controllers\Estudiantes.php(330): CodeIgniter\Database\BaseConnection->query('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', [...])
+ 4 APPPATH\Controllers\Estudiantes.php(206): App\Controllers\Estudiantes->getEstudianteDetalles(5348)
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(5348)
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 06:20:15 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 13
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 4 APPPATH\Controllers\Estudiantes.php(330): CodeIgniter\Database\BaseConnection->query('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', [...])
+ 5 APPPATH\Controllers\Estudiantes.php(206): App\Controllers\Estudiantes->getEstudianteDetalles(5348)
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(5348)
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-11-21 06:21:32 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 13 in C:\xampp\htdocs\crud_codeigniter4\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\crud_codeigniter4\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT e.codigo...', 0)
+#1 C:\xampp\htdocs\crud_codeigniter4\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT e.codigo...')
+#2 C:\xampp\htdocs\crud_codeigniter4\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT e.codigo...')
+#3 C:\xampp\htdocs\crud_codeigniter4\app\Controllers\Estudiantes.php(298): CodeIgniter\Database\BaseConnection->query('SELECT e.codigo...', Array)
+#4 C:\xampp\htdocs\crud_codeigniter4\app\Controllers\Estudiantes.php(42): App\Controllers\Estudiantes->getEstudianteDetalles('5348')
+#5 C:\xampp\htdocs\crud_codeigniter4\system\CodeIgniter.php(933): App\Controllers\Estudiantes->detalle('5348')
+#6 C:\xampp\htdocs\crud_codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+#7 C:\xampp\htdocs\crud_codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\crud_codeigniter4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\crud_codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\crud_codeigniter4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-11-21 06:21:32 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 13
+[Method: GET, Route: estudiantes/detalle/5348]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Controllers\Estudiantes.php(298): CodeIgniter\Database\BaseConnection->query('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', [...])
+ 2 APPPATH\Controllers\Estudiantes.php(42): App\Controllers\Estudiantes->getEstudianteDetalles('5348')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->detalle('5348')
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 06:21:32 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 13
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 3 APPPATH\Controllers\Estudiantes.php(298): CodeIgniter\Database\BaseConnection->query('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', [...])
+ 4 APPPATH\Controllers\Estudiantes.php(42): App\Controllers\Estudiantes->getEstudianteDetalles('5348')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->detalle('5348')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 06:21:32 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 13
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 4 APPPATH\Controllers\Estudiantes.php(298): CodeIgniter\Database\BaseConnection->query('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', [...])
+ 5 APPPATH\Controllers\Estudiantes.php(42): App\Controllers\Estudiantes->getEstudianteDetalles('5348')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->detalle('5348')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-11-21 06:22:40 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 13 in C:\xampp\htdocs\crud_codeigniter4\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\crud_codeigniter4\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT e.codigo...', 0)
+#1 C:\xampp\htdocs\crud_codeigniter4\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT e.codigo...')
+#2 C:\xampp\htdocs\crud_codeigniter4\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT e.codigo...')
+#3 C:\xampp\htdocs\crud_codeigniter4\app\Controllers\Estudiantes.php(330): CodeIgniter\Database\BaseConnection->query('SELECT e.codigo...', Array)
+#4 C:\xampp\htdocs\crud_codeigniter4\app\Controllers\Estudiantes.php(206): App\Controllers\Estudiantes->getEstudianteDetalles(5348)
+#5 C:\xampp\htdocs\crud_codeigniter4\system\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(5348)
+#6 C:\xampp\htdocs\crud_codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+#7 C:\xampp\htdocs\crud_codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\crud_codeigniter4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\crud_codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\crud_codeigniter4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-11-21 06:22:40 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 13
+[Method: GET, Route: estudiantes/editar/5348]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Controllers\Estudiantes.php(330): CodeIgniter\Database\BaseConnection->query('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', [...])
+ 2 APPPATH\Controllers\Estudiantes.php(206): App\Controllers\Estudiantes->getEstudianteDetalles(5348)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(5348)
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 06:22:40 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 13
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 3 APPPATH\Controllers\Estudiantes.php(330): CodeIgniter\Database\BaseConnection->query('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', [...])
+ 4 APPPATH\Controllers\Estudiantes.php(206): App\Controllers\Estudiantes->getEstudianteDetalles(5348)
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(5348)
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 06:22:40 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 13
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 4 APPPATH\Controllers\Estudiantes.php(330): CodeIgniter\Database\BaseConnection->query('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', [...])
+ 5 APPPATH\Controllers\Estudiantes.php(206): App\Controllers\Estudiantes->getEstudianteDetalles(5348)
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->editar(5348)
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-11-21 06:23:18 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 13 in C:\xampp\htdocs\crud_codeigniter4\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\crud_codeigniter4\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT e.codigo...', 0)
+#1 C:\xampp\htdocs\crud_codeigniter4\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT e.codigo...')
+#2 C:\xampp\htdocs\crud_codeigniter4\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT e.codigo...')
+#3 C:\xampp\htdocs\crud_codeigniter4\app\Controllers\Estudiantes.php(298): CodeIgniter\Database\BaseConnection->query('SELECT e.codigo...', Array)
+#4 C:\xampp\htdocs\crud_codeigniter4\app\Controllers\Estudiantes.php(42): App\Controllers\Estudiantes->getEstudianteDetalles('5348')
+#5 C:\xampp\htdocs\crud_codeigniter4\system\CodeIgniter.php(933): App\Controllers\Estudiantes->detalle('5348')
+#6 C:\xampp\htdocs\crud_codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+#7 C:\xampp\htdocs\crud_codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\crud_codeigniter4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\crud_codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\crud_codeigniter4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-11-21 06:23:18 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 13
+[Method: GET, Route: estudiantes/detalle/5348]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Controllers\Estudiantes.php(298): CodeIgniter\Database\BaseConnection->query('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', [...])
+ 2 APPPATH\Controllers\Estudiantes.php(42): App\Controllers\Estudiantes->getEstudianteDetalles('5348')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->detalle('5348')
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 06:23:18 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 13
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 3 APPPATH\Controllers\Estudiantes.php(298): CodeIgniter\Database\BaseConnection->query('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', [...])
+ 4 APPPATH\Controllers\Estudiantes.php(42): App\Controllers\Estudiantes->getEstudianteDetalles('5348')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->detalle('5348')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 06:23:18 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':codigo' at line 13
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo')
+ 4 APPPATH\Controllers\Estudiantes.php(298): CodeIgniter\Database\BaseConnection->query('SELECT e.codigo, e.nombre1, e.nombre2, e.apellido1, e.apellido2, c6.nombre AS tiposangre, e.altura, e.peso,
+                    c1.nombre AS nombre_colorojos, DATE_FORMAT(e.fechanace, \'%Y-%m-%d\') as fecha,
+                    c2.nombre AS nombre_colorprefiere, c3.nombre AS profesion, c4.nombre AS nacionalidad, e.correo, 
+                    e.URL, e.celular, c7.nombre AS estadocivil, c5.nombre AS CiudadTrabajo, e.observacion, e.foto
+                FROM estudiantes e
+                JOIN colores c1 ON e.colorojos = c1.codigo
+                JOIN colores c2 ON e.colorprefiere = c2.codigo
+                JOIN profesiones c3 ON e.profesion = c3.codigo
+                JOIN paises c4 ON e.nacionalidad = c4.codigo
+                JOIN ciudades c5 ON e.ciudadtrabaja = c5.codigo
+                JOIN tiposangre c6 ON e.tiposangre = c6.codigo
+                JOIN estadocivil c7 ON e.estadocivil = c7.codigo
+                WHERE e.codigo = :codigo', [...])
+ 5 APPPATH\Controllers\Estudiantes.php(42): App\Controllers\Estudiantes->getEstudianteDetalles('5348')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->detalle('5348')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 08:19:09 --> ErrorException: Undefined variable $colorojos
+[Method: GET, Route: estudiantes/adicionar]
+in APPPATH\Views\estudiantes\adicionar.php on line 62.
+ 1 APPPATH\Views\estudiantes\adicionar.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $colorojos', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Views\\estudiantes\\adicionar.php', 62)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Views\\estudiantes\\adicionar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('estudiantes/adicionar', [], true)
+ 5 APPPATH\Controllers\Estudiantes.php(115): view('estudiantes/adicionar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->adicionar()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 08:51:12 --> ErrorException: Undefined variable $estudiante
+[Method: GET, Route: estudiantes]
+in APPPATH\Views\estudiantes\index.php on line 15.
+ 1 APPPATH\Views\estudiantes\index.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $estudiante', 'C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Views\\estudiantes\\index.php', 15)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\crud_codeigniter4\\app\\Views\\estudiantes\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('estudiantes/index', [], true)
+ 5 APPPATH\Controllers\Estudiantes.php(31): view('estudiantes/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-11-21 16:48:31 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`educar`.`estudiantes`, CONSTRAINT `ref11` FOREIGN KEY (`TipoSangre`) REFERENCES `tiposangre` (`codigo`)) in C:\xampp\htdocs\crud_codeigniter4\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\crud_codeigniter4\system\Database\MySQLi\Connection.php(312): mysqli->query('UPDATE `estudia...', 0)
+#1 C:\xampp\htdocs\crud_codeigniter4\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `estudia...')
+#2 C:\xampp\htdocs\crud_codeigniter4\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `estudia...')
+#3 C:\xampp\htdocs\crud_codeigniter4\system\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `estudia...', Array, false)
+#4 C:\xampp\htdocs\crud_codeigniter4\system\Model.php(461): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\crud_codeigniter4\system\BaseModel.php(1028): CodeIgniter\Model->doUpdate(Array, Array)
+#6 C:\xampp\htdocs\crud_codeigniter4\system\Model.php(865): CodeIgniter\BaseModel->update(Array, Array)
+#7 C:\xampp\htdocs\crud_codeigniter4\app\Controllers\Estudiantes.php(323): CodeIgniter\Model->update(5348, Array)
+#8 C:\xampp\htdocs\crud_codeigniter4\system\CodeIgniter.php(933): App\Controllers\Estudiantes->actualizar(5348)
+#9 C:\xampp\htdocs\crud_codeigniter4\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+#10 C:\xampp\htdocs\crud_codeigniter4\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\crud_codeigniter4\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\crud_codeigniter4\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\crud_codeigniter4\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-11-21 16:48:31 --> CodeIgniter\Database\Exceptions\DatabaseException: Cannot add or update a child row: a foreign key constraint fails (`educar`.`estudiantes`, CONSTRAINT `ref11` FOREIGN KEY (`TipoSangre`) REFERENCES `tiposangre` (`codigo`))
+[Method: POST, Route: estudiantes/actualizar/5348]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `estudiantes` SET `nombre1` = :nombre1:, `nombre2` = :nombre2:, `apellido1` = :apellido1:, `apellido2` = :apellido2:, `tiposangre` = :tiposangre:, `altura` = :altura:, `peso` = :peso:, `colorojos` = :colorojos:, `fechanace` = :fechanace:, `colorprefiere` = :colorprefiere:, `profesion` = :profesion:, `nacionalidad` = :nacionalidad:, `correo` = :correo:, `url` = :url:, `celular` = :celular:, `estadocivil` = :estadocivil:, `ciudadtrabaja` = :ciudadtrabaja:, `observacion` = :observacion:, `foto` = :foto:
+WHERE `estudiantes`.`codigo` IN :estudiantes.codigo:', [...], false)
+ 2 SYSTEMPATH\Model.php(461): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(1028): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update([...], [...])
+ 5 APPPATH\Controllers\Estudiantes.php(323): CodeIgniter\Model->update(5348, [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->actualizar(5348)
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 16:48:31 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Cannot add or update a child row: a foreign key constraint fails (`educar`.`estudiantes`, CONSTRAINT `ref11` FOREIGN KEY (`TipoSangre`) REFERENCES `tiposangre` (`codigo`))
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `estudiantes` SET `nombre1` = \'3\', `nombre2` = \'3\', `apellido1` = \'3\', `apellido2` = \'3\', `tiposangre` = \'\', `altura` = \'3\', `peso` = \'3\', `colorojos` = \'1\', `fechanace` = NULL, `colorprefiere` = \'1\', `profesion` = \'1\', `nacionalidad` = \'1\', `correo` = \'1@gmail\', `url` = NULL, `celular` = \'1\', `estadocivil` = \'1\', `ciudadtrabaja` = \'1\', `observacion` = \'hola que hace\', `foto` = \'fotos/Captura de pantalla 2024-08-25 200449.png\'
+WHERE `estudiantes`.`codigo` IN (5348)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `estudiantes` SET `nombre1` = \'3\', `nombre2` = \'3\', `apellido1` = \'3\', `apellido2` = \'3\', `tiposangre` = \'\', `altura` = \'3\', `peso` = \'3\', `colorojos` = \'1\', `fechanace` = NULL, `colorprefiere` = \'1\', `profesion` = \'1\', `nacionalidad` = \'1\', `correo` = \'1@gmail\', `url` = NULL, `celular` = \'1\', `estadocivil` = \'1\', `ciudadtrabaja` = \'1\', `observacion` = \'hola que hace\', `foto` = \'fotos/Captura de pantalla 2024-08-25 200449.png\'
+WHERE `estudiantes`.`codigo` IN (5348)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `estudiantes` SET `nombre1` = :nombre1:, `nombre2` = :nombre2:, `apellido1` = :apellido1:, `apellido2` = :apellido2:, `tiposangre` = :tiposangre:, `altura` = :altura:, `peso` = :peso:, `colorojos` = :colorojos:, `fechanace` = :fechanace:, `colorprefiere` = :colorprefiere:, `profesion` = :profesion:, `nacionalidad` = :nacionalidad:, `correo` = :correo:, `url` = :url:, `celular` = :celular:, `estadocivil` = :estadocivil:, `ciudadtrabaja` = :ciudadtrabaja:, `observacion` = :observacion:, `foto` = :foto:
+WHERE `estudiantes`.`codigo` IN :estudiantes.codigo:', [...], false)
+ 4 SYSTEMPATH\Model.php(461): CodeIgniter\Database\BaseBuilder->update()
+ 5 SYSTEMPATH\BaseModel.php(1028): CodeIgniter\Model->doUpdate([...], [...])
+ 6 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update([...], [...])
+ 7 APPPATH\Controllers\Estudiantes.php(323): CodeIgniter\Model->update(5348, [...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->actualizar(5348)
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-11-21 16:48:31 --> [Caused by] mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`educar`.`estudiantes`, CONSTRAINT `ref11` FOREIGN KEY (`TipoSangre`) REFERENCES `tiposangre` (`codigo`))
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('UPDATE `estudiantes` SET `nombre1` = \'3\', `nombre2` = \'3\', `apellido1` = \'3\', `apellido2` = \'3\', `tiposangre` = \'\', `altura` = \'3\', `peso` = \'3\', `colorojos` = \'1\', `fechanace` = NULL, `colorprefiere` = \'1\', `profesion` = \'1\', `nacionalidad` = \'1\', `correo` = \'1@gmail\', `url` = NULL, `celular` = \'1\', `estadocivil` = \'1\', `ciudadtrabaja` = \'1\', `observacion` = \'hola que hace\', `foto` = \'fotos/Captura de pantalla 2024-08-25 200449.png\'
+WHERE `estudiantes`.`codigo` IN (5348)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `estudiantes` SET `nombre1` = \'3\', `nombre2` = \'3\', `apellido1` = \'3\', `apellido2` = \'3\', `tiposangre` = \'\', `altura` = \'3\', `peso` = \'3\', `colorojos` = \'1\', `fechanace` = NULL, `colorprefiere` = \'1\', `profesion` = \'1\', `nacionalidad` = \'1\', `correo` = \'1@gmail\', `url` = NULL, `celular` = \'1\', `estadocivil` = \'1\', `ciudadtrabaja` = \'1\', `observacion` = \'hola que hace\', `foto` = \'fotos/Captura de pantalla 2024-08-25 200449.png\'
+WHERE `estudiantes`.`codigo` IN (5348)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `estudiantes` SET `nombre1` = \'3\', `nombre2` = \'3\', `apellido1` = \'3\', `apellido2` = \'3\', `tiposangre` = \'\', `altura` = \'3\', `peso` = \'3\', `colorojos` = \'1\', `fechanace` = NULL, `colorprefiere` = \'1\', `profesion` = \'1\', `nacionalidad` = \'1\', `correo` = \'1@gmail\', `url` = NULL, `celular` = \'1\', `estadocivil` = \'1\', `ciudadtrabaja` = \'1\', `observacion` = \'hola que hace\', `foto` = \'fotos/Captura de pantalla 2024-08-25 200449.png\'
+WHERE `estudiantes`.`codigo` IN (5348)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `estudiantes` SET `nombre1` = :nombre1:, `nombre2` = :nombre2:, `apellido1` = :apellido1:, `apellido2` = :apellido2:, `tiposangre` = :tiposangre:, `altura` = :altura:, `peso` = :peso:, `colorojos` = :colorojos:, `fechanace` = :fechanace:, `colorprefiere` = :colorprefiere:, `profesion` = :profesion:, `nacionalidad` = :nacionalidad:, `correo` = :correo:, `url` = :url:, `celular` = :celular:, `estadocivil` = :estadocivil:, `ciudadtrabaja` = :ciudadtrabaja:, `observacion` = :observacion:, `foto` = :foto:
+WHERE `estudiantes`.`codigo` IN :estudiantes.codigo:', [...], false)
+ 5 SYSTEMPATH\Model.php(461): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(1028): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update([...], [...])
+ 8 APPPATH\Controllers\Estudiantes.php(323): CodeIgniter\Model->update(5348, [...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Estudiantes->actualizar(5348)
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Estudiantes))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
